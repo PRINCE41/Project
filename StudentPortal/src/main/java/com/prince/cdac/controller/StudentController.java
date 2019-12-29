@@ -48,6 +48,9 @@ public class StudentController {
 	
 	@Autowired
 	Login login;
+	
+	@Autowired
+	
 	 
 	
 	@RequestMapping("home")
